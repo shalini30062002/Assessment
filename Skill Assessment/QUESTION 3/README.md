@@ -28,6 +28,7 @@ having to contact customer support directly. This project serves as a simple exa
 
 1)open pycharm and create new folder name:templates.
 under templates create HTML file name:index.html
+
 2)create another folder name:static under static folder create css file name:static.css
 
 
