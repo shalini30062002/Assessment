@@ -10,3 +10,5 @@ SQL (Structured Query Language) is widely used for managing and querying relatio
 
 ## SQL Query
 To retrieve the third maximum salary of employees from the employees table, you can use the following SQL query:  
+
+select min(salary)from Employe where salary in (select top(3) salary from Employe order by salary desc)
