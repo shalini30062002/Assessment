@@ -15,7 +15,7 @@ The Jaro-Winkler algorithm is a well-known method for calculating the similarity
 ## python installation
 download python recent version(https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe)
 
-## jaro_winkler installetion
+## jaro_winkler installation
 open command prompt and install jaro winkler(type pip install jaro-winkler)
 
 jaro-winkler installed successfully
