@@ -1,7 +1,7 @@
 # Data Preprocessing: Text Cleaning, Tokenization, and Stop Word Removal
 ## Introduction
 
-Data preprocessing is a crucial step in natural language processing (NLP) and machine learning pipelines. Raw text data often contains irrelevant characters, special symbols, and common words that might not contribute meaningfully to the analysis. This repository provides a simple example of how to preprocess text data to improve its quality and usability for various tasks.
+Data preprocessing is a crucial step in Data engineering. Raw text data often contains irrelevant characters, special symbols, and common words that might not contribute meaningfully to the analysis. This repository provides a simple example of how to preprocess text data to improve its quality and usability for various tasks.
 
 ### Prerequisites
 
