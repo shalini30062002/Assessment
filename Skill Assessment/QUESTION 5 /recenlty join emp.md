@@ -20,6 +20,8 @@ inner join onboarding on Employe.Name=onboarding.Name
 
 where datediff(year,joining_date,getdate())=0"""
 
+## CODE DEFINITION
+
 SELECT employee_name, salary-- fetches the name and salary of the recently joined employee.
 
 INNER JOIN --combining rows that have matching values in two or more tables.
